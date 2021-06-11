@@ -1,5 +1,5 @@
 ## Thanks for Everything
-# ITS_ME_AMAL
+  its_me_Amal 🦋
 ### We will always remember you..
 
 - [Yusuf Usta](https://github.com/yusufusta)
