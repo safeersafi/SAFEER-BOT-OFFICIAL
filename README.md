@@ -1,5 +1,13 @@
-## Thanks for Everything
-  its_me_Amal 🦋
+## Its Me Amal🤗
+
+Thank you Everyone for helping to develop this one🦋
+Join Whatsapp Group 
+# kerala Bot | Group
+https://chat.whatsapp.com/Jh3BjpsLdglJhDrea4ME52 
+
+
+
+## Thanks for Everything 
 ### We will always remember you..
 
 - [Yusuf Usta](https://github.com/yusufusta)
@@ -156,7 +164,7 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
-## ## WhatsAsena Features
+##  WhatsAsena Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
