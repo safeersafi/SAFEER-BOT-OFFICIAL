@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *WhatsAsena*:  ```" + msg + "```"
+    return "✅ *AmalSer*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *WhatsAsena*:  ```" + msg + "```"
+    return "🛑 *AmalSer*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *WhatsAsena*:  ```" + msg + "```"
+    return "⏺️ *AmalSer*:  ```" + msg + "```"
 }
 
 
