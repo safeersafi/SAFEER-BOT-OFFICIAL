@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'bot ?(.*)', fromMe: false, desc: BOT_DESC}, async (m
 	try {
 		const response = await got(url);
 		const json = JSON.parse(response.body);
-	  if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '\n*💞 ' + BOT +'* ```' + json.messages[0].response + '```\n\n' , MessageType.text,{quoted: message.data});
+	  if (response.statusCode === 200) return await message.client.sendMessage(message.jid, '\n*𝐕𝐀𝐕𝐀💞 ' + BOT +'* ```' + json.messages[0].response + '```\n\n' , MessageType.text,{quoted: message.data});
 	} catch {
 		return await message.client.sendMessage(message.jid, NOT_FOUNDAC, MessageType.text);
 	}
