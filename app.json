@@ -106,7 +106,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n```SAFEER BOT OFFICIAL```\n ``` I AM ALIVE```\n```Type *.help* ```For Commands```"
+            "value": "\n```SAFEER BOT OFFICIAL.```\n ``` I AM ALIVE```\n```Type *.help* ```For Commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
