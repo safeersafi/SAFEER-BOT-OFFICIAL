@@ -1,4 +1,4 @@
-## Its_Me_Amal🥰
+## SAFEER-BOT-OFFICIAL
 
 <img src=https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg>
 
@@ -205,10 +205,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
-----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
-Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
+[![SAFEERSAFI](https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg)](https://www.fusuf.codes) | [![RAVINDU MANOJ](https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg)](https://github.com/RavinduManoj) 
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
