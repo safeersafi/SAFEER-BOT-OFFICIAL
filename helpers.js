@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *AmalSer*:  ```" + msg + "```"
+    return "✅ *Safeer*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *AmalSer*:  ```" + msg + "```"
+    return "🛑 *Safeer*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *AmalSer*:  ```" + msg + "```"
+    return "⏺️ *Safeer*:  ```" + msg + "```"
 }
 
 
