@@ -136,12 +136,12 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Downloading media & making meme...```"
+            "DOWNLOADING": "```Safeer Downloading media & making meme...```"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Media is downloading & reading...```",
+            "DOWNLOADING": "```Safeer Media is downloading & reading...```",
             "ERROR": "```I couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
@@ -184,12 +184,12 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "```Song ippo tharam 🤘```",
-            "UPLOADING_SONG": "```Nan on aane``` 👻\n````I am comming 😍 enna pidicho 😘```",
+            "DOWNLOADING_SONG": "```Safeer Downloading your song```",
+            "UPLOADING_SONG": "```Safeer Uploading Your Song```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading your video...```",
-            "UPLOADING_VIDEO": "```Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```Safeer Downloading your video...```",
+            "UPLOADING_VIDEO": "```Safeer Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
