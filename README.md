@@ -1,6 +1,6 @@
 ## Its_Me_Amal🥰
 
-<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
+<img src=https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg>
 
 
 Thank you Everyone for helping to develop this one🦋
@@ -90,8 +90,8 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena Duplicated</h1>
+  <img src="https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg" width="200" height="200">
+  <h1>🐺 WhatsSafeer Duplicated</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
@@ -140,7 +140,7 @@ $ node bot.js
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ##
 
@@ -205,7 +205,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
+[![Yusuf Usta](https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
