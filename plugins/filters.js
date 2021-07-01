@@ -54,7 +54,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '919895828468@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Missing','mind','morning','set','Criminal','Entry','Thyr','Admin','kundan','ay','muthe','mass','its me','Cr7','Tone','Messi','item','Annan','Azaru','Ada','Hi','Hii','sad','Myre','Mrng','Da','WELCOME','Left','Link','Ok','Aliya', 'Pova','Myr','setta','range','Mood','love','Ninde','you','poli','Happy','girl','Andi','chadhi']
+const array = ['Missing','mind','morning','set','Criminal','Entry','Thyr','Admin','kundan','ay','muthe','mass','its me','Cr7','Tone','Messi','item','Annan','Azaru','Ada','Hi','Hii','sad','Myre','Mrng','Da','WELCOME','Left','Link','Ok','Aliya', 'Pova','Myr','setta','range','Mood','love','Ninde','you','poli','Happy','girl','Andi','chadhi','Aara','Bot','But y','Haha','Ithentha','Ivanetha','Safeer','Sorry' ]
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
