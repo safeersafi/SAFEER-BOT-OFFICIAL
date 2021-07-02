@@ -136,12 +136,12 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Safeer Downloading media & making meme...```"
+            "DOWNLOADING": "```Bot Downloading media & making meme...```"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Safeer Media is downloading & reading...```",
+            "DOWNLOADING": "```Bot Media is downloading & reading...```",
             "ERROR": "```I couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
@@ -188,8 +188,8 @@
             "UPLOADING_SONG": "```*Bot uploading your song📲 Use*🎧```",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Safeer Downloading your video...```",
-            "UPLOADING_VIDEO": "```Safeer Uploading your video...```",
+            "DOWNLOADING_VIDEO": "```Bot Downloading your video...```",
+            "UPLOADING_VIDEO": "```Bot Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
