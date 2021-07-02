@@ -136,7 +136,7 @@
         "AFK_MESSAGE": {
             "description": "Customizable AFK Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "im afk now"
         },
         "GAN_IMAGE": {
             "description": "Type image link for Gan Style plugin.",
