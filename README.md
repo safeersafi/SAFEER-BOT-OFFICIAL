@@ -3,7 +3,7 @@
 <img src=https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg>
 
 
-Thank you Everyone for helping to develop this one🦋
+Thank you RM for helping to develop this one♥️
 Join Whatsapp Group 
 # kerala Bot | Group
 https://chat.whatsapp.com/Jh3BjpsLdglJhDrea4ME52 
