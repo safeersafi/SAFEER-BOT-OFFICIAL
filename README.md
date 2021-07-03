@@ -5,9 +5,6 @@
 
 Thank you RM for helping to develop this one♥️
 Join Whatsapp Group 
-# kerala Bot | Group
-https://chat.whatsapp.com/Jh3BjpsLdglJhDrea4ME52 
-
 
 
 ## Thanks for Everything 
