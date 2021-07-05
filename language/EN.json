@@ -500,6 +500,16 @@
             "BUL": "Founded Song:",
             "ARAT": "Searched Song:"
         },
+        "sewmaker": {
+            "SEWTTP_DESC": "Converts text to plain picture.",
+            "SEWATTP_DESC": "Adds rainbow effect to the text as a sticker.",
+            "SEWSTTP_DESC": "Converts text to plain picture as a sticker.",
+            "SEWNEED_WORD": "*You must enter some text!*",
+            "SEWANIME_DESC": "It writes the text inside the banner the anime girl is holding",
+            "SEWTRUMP_DESC": "Converts the text to Trump's tweet.",
+            "SEWCHANGE_DESC": "Turns the text into the change my mind poster.",
+            "SEWTXTTOIMG_DESC": "Set of commands to convert text into images."
+        },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
             "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
