@@ -510,6 +510,9 @@
             "SEWCHANGE_DESC": "Turns the text into the change my mind poster.",
             "SEWTXTTOIMG_DESC": "Set of commands to convert text into images."
         },
+        "sewpropbot": {
+            "PR": "Provides all Properties about the boat ."
+        },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
             "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
