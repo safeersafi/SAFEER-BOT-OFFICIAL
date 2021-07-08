@@ -20,8 +20,8 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
-    r_text[1] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
+    r_text[0] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
+    r_text[1] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
 
     var i = Math.floor(2*Math.random())
 
@@ -34,8 +34,8 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
-    r_text[1] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
+    r_text[0] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
+    r_text[1] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
 
     var i = Math.floor(2*Math.random())
 
@@ -48,8 +48,8 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
-    r_text[1] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
+    r_text[0] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
+    r_text[1] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
 
     var i = Math.floor(2*Math.random())
 
@@ -65,8 +65,8 @@ else if (Config.WORKTYPE == 'public') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
-    r_text[1] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
+    r_text[0] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
+    r_text[1] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
 
     var i = Math.floor(2*Math.random())
 
@@ -79,8 +79,8 @@ else if (Config.WORKTYPE == 'public') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
-    r_text[1] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
+    r_text[0] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
+    r_text[1] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
 
     var i = Math.floor(2*Math.random())
 
@@ -93,8 +93,8 @@ else if (Config.WORKTYPE == 'public') {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
-    r_text[1] = "https://i.ibb.co/YXgHwQP/IMG-20210707-124724.jpg";
+    r_text[0] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
+    r_text[1] = "https://i.ibb.co/WGDVttX/IMG-20210707-122223.jpg";
 
     var i = Math.floor(2*Math.random())
 
