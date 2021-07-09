@@ -204,7 +204,7 @@ Asena.addCommand({pattern: 'ninjalogo ?(.*)', fromMe: false, dontAddCommandList:
 
     var webimage = await axios.get(`https://docs-jojo.herokuapp.com/api/gaming?text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg })
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Made By safeer*' })
 
 }));
 
