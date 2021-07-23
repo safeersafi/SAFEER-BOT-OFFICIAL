@@ -91,5 +91,5 @@ Asena.addCommand({pattern: 'goodbye (.*)', fromMe: true, dontAddCommandList: tru
 
 
 
-    }
-}));
+
+
