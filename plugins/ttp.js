@@ -96,7 +96,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         t29 = 'Kupa Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
     }
     else {
-        t1 = 'Makes Devil Themed Logo.' // https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
+        t1 = 'Makes Devil Themed Logo.' https://textpro.me/create-neon-devil-wings-text-effect-online-free-1014.html
         t2 = 'Makes Logo With Bear Icon.' // https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html
         t3 = 'Makes Logo With Neon Effect.' // https://textpro.me/create-a-futuristic-technology-neon-light-text-effect-1006.html
         t4 = 'Makes Logo With Second Neon Effect.' // https://textpro.me/neon-text-effect-online-879.html
