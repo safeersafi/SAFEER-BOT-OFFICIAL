@@ -205,9 +205,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 
 
-## Developers
+## Developer
 
-[![SAFEERSAFI]<img src="https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg" width="200" height="200">](https://www.fusuf.codes) | [![RAVINDU MANOJ]<img src = "https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="200" height="200">](https://github.com/RavinduManoj) 
+[![SAFEERSAFI]<img src="https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg" width="200" height="200">](https://www.fusuf.codes) 
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
