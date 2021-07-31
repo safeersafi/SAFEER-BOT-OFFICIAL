@@ -2,7 +2,7 @@
 SAFEER BOT OFFICIAL 😎
 
 <div align="center">
- ![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)
+ <img src=![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)>
 
 
 ## 📢 Guide
