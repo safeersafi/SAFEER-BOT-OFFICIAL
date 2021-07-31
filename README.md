@@ -2,7 +2,7 @@
 SAFEER BOT OFFICIAL 😎
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210731-114040.jpg>
+  <img src=https://www.linkpicture.com/q/IMG-20210731-WA0000.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
