@@ -1,5 +1,7 @@
+<div align="center">
 ## 😎SAFEER-BOT-OFFICIAL😎
 
+  <div align="center">
 <img src=https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg>
 
 
@@ -15,8 +17,8 @@ Thank you RM for helping to develop this one♥️
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+
+
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
@@ -63,18 +65,18 @@ Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının de
 
 WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
 Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
+
+
+
+
+
+
+
+
+
+
+
+
 
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
@@ -86,37 +88,37 @@ Usage is entirely the user's responsibility, Asena Userbot is an
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
 is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
+
+
+
+
 
 <div align="center">
   <img src="https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg" width="200" height="200">
   <h1>🐺 WhatsApp bot by safeer </h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+           Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
-    <br>
+      
+
+      
+        
+    
 </p>
 
-----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
 
-> [New support & help group.](https://t.me/asenaremaster) (New)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
-## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+
+
+
+
+
+
+
+
 
 ## Setup
 ### Very Simple Method
@@ -139,26 +141,26 @@ $ nano Config.env
 $ node bot.js
 ```
 
-##
 
-### ⚒️ Setup Wiki - Kurulum [Tam Anlatım]
-[![Setup - Kurulum](https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
-##
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
-### What does Asena mean?
-[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##
 
@@ -206,15 +208,16 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 
 ## Developer
-
+<div align="center">
+    
 [![SAFEERSAFI]<img src="https://github.com/safeersafi/safeersafi/blob/b39e3564c334a205eaa409fd867f80af5f3385fb/IMG-20210630-WA0017.jpg" width="200" height="200">](https://www.fusuf.codes) 
 
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- [@Unique_hunter](https://t.me/Unique_hunter) for helps and ideas
-- Translators
+
+- [@adiwajshing](https:/
+
+
+
+
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
