@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [SAFEER BOT OFFICIAL 😎]![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)
+  SAFEER![IMG-20210731-WA0000](https://user-images.githubusercontent.com/53081109/127731525-b2eb1adc-7647-4c7b-a4a1-11795964eca6.jpg)
  https://github.com/safeersafi/SAFEER-BOT-OFFICIAL.git |  
 ----|
 [SAFEER BOT OFFICIAL ](https://github.com/safeersafi/SAFEER-BOT-OFFICIAL.git)  |
