@@ -2,7 +2,7 @@
 SAFEER BOT OFFICIAL 😎
 
 <div align="center">
- <img src=https://www.linkpicture.com/view.php?img=LPic6104f5ad81bb8948851403"><img src="https://
+ <img src=https://www.linkpicture.com/view.php?img=LPic6104f5ad81bb8948851403"><img src="https://>
 
 
 ## 📢 Guide
