@@ -76,7 +76,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...```",
+            "RESTART_MSG": "```Restarting...Please wait```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
