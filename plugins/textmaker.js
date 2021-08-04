@@ -130,7 +130,7 @@ Asena.addCommand({pattern: 'txtit$', fromMe: wk, desc: desc_msg}, (async (messag
         command_cmd = '💻 *Komut:* '
         desc_cmd = 'ℹ️ *Açıklama:* _'
     } else { 
-        usage_cmd = '✳️ *Example:* '
+        usage_cmd = '*✳️ Example:* '
         command_cmd = '🔰 *Command:* '
         desc_cmd = '💠 *Description:* '
     }
