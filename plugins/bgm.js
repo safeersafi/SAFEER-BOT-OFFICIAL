@@ -1,10 +1,16 @@
-/* Codded by @Ravindu Manoj
-Telegram: t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+
+
+/* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Whats bot - Ravindu Manoj
+WhatsAsena - Yusuf Usta
 */
+
+
+
+
+
+
 
 const Asena = require('../events');
 
