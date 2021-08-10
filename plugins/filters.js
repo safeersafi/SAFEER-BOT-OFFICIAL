@@ -90,7 +90,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
 
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
 
-        if(sew.BGMFILTER){
+        if(config.BGMFILTER){
 
         let banned = jid.find( Jid => Jid === message.jid);
 
