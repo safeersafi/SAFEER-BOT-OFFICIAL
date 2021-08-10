@@ -8,7 +8,7 @@ Whats bot - Ravindu Manoj
 
 const Asena = require('../events');
 
-const sew = require('../config');
+const config = require('../config');
 
 const Heroku = require('heroku-client');
 
