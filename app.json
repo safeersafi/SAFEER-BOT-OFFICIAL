@@ -20,6 +20,11 @@
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
             "required": true,
             "value": "en"
+           },
+            "BGM_FILTER": {
+            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "required": false,
+            "value": "true"
         },
         "ANTİ_LİNK": {
             "description": "Link Blocking System.",
