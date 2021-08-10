@@ -16,7 +16,7 @@ const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 
 const FilterDb = require('./sql/filters');
 
-const config = require('../config');
+const sew = require('../config');
 
 const Language = require('../language');
 
@@ -88,7 +88,8 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
 
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
 
-        if(config.BGMFILTER){
+        if(sew.BGMFILTER){ 
+
 
         let banned = jid.find( Jid => Jid === message.jid);
 
