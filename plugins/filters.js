@@ -25,7 +25,7 @@ const jid = Config.DISBGM !== undefined ? COnfig.DISBGM.split(',') : [];
 const Language = require('../language');
 
 const Lang = Language.getString('filters');
-
+if (Config.WORKTYPE == 'private') {
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
 
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
