@@ -26,10 +26,10 @@ module.exports = {
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
-    AFN: process.env.ALL_CAPTION === undefined ? 'public bot amal' : process.env.ALL_CAPTION,
-    ALL_LINK_BAN: process.env.ALL_LINK_BAN === undefined ? 'false' : process.env.ALL_LINK_BAN,
-    PLK: process.env.OWNER_NAME === undefined ? 'default' : process.env.OWNER_NAME,
-    BOTPLK: process.env.BOT_NAME === undefined ? '•-SAFEER BOT OFFICIAL-•' : process.env.BOT_NAME,PLKBGM: process.env.CHANGE_BGM_TO === undefined ? 'one' : process.env.CHANGE_BGM_TO,
+
+
+    
+
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
@@ -37,7 +37,7 @@ module.exports = {
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? undefined : convertToBool(process.env.DISABLE_JID_BGM_FILTER),
-    NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
+    NOLOG: process.env.NO_LOG === undefined ? 'kfalse' : process.env.NO_LOG,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
